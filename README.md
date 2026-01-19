@@ -43,6 +43,10 @@ Verify success or error message
 
 Close browser
 
+🔹 How to Run the Project
+pip install -r requirements.txt
+pytest
+
 
 🔹 Selenium Architecture (Visual Understanding)
 <img width="1174" height="806" alt="image" src="https://github.com/user-attachments/assets/b5d03e9e-8611-43bf-8479-9bc9ca0a6922" />
